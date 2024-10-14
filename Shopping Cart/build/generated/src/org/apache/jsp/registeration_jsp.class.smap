@@ -1,0 +1,24 @@
+SMAP
+registeration_jsp.java
+JSP
+*S JSP
+*F
++ 0 registeration.jsp
+registeration.jsp
++ 1 Connection.jsp
+Connection.jsp
+*L
+5:50
+1#1,11:51
+12,5:63
+16,4:68
+6#0,74:71
+80,23:146
+102,4:169
+106,10:174
+115,4:184
+119:188,3
+120,42:191
+164,10:236
+173,13:246
+*E
